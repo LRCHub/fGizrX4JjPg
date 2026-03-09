@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ビノミ",
+  "base_artist": "MARETU",
+  "createdAt": "2026-03-09T15:22:17.817358Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ビノミ",
+      "artist": "Maretu",
+      "has_synced": false,
+      "path": "select/pl_01_ビノミ_Maretu.txt"
+    }
+  ]
+}
